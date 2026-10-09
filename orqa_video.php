@@ -2,7 +2,7 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 0);
 
-$bot_token = "8592685877:AAFHxj5UaKAXxpMz5qNzdrBQ9k1Ucn-MDRE";
+$bot_token = "8940114047:AAEoEqS32SpwJ-ovcz3sJIQkL2M7YLvcpm4";
 $log_file = "debug_log.txt";
 
 function writeLog($text) {
