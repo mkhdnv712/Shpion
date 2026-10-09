@@ -9,8 +9,8 @@ ini_set('display_errors', 0);
 date_default_timezone_set('Asia/Tashkent');
 
 // ========== KONFIGURATSIYA ==========
-define('BOT_TOKEN', '8592685877:AAFHxj5UaKAXxpMz5qNzdrBQ9k1Ucn-MDRE');
-$admin_id = "7606681002"; // Asosiy admin ID
+define('BOT_TOKEN', '8940114047:AAEoEqS32SpwJ-ovcz3sJIQkL2M7YLvcpm4');
+$admin_id = "6355289079"; // Asosiy admin ID
 
 // ========== FUNKSIYALAR ==========
 
