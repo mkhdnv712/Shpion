@@ -2,7 +2,11 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 0);
 
+<<<<<<< HEAD
 $bot_token = "8940114047:AAEoEqS32SpwJ-ovcz3sJIQkL2M7YLvcpm4";
+=======
+$bot_token = "8592685877:AAFHxj5UaKAXxpMz5qNzdrBQ9k1Ucn-MDRE";
+>>>>>>> 986a4aa54d157ecbc5d11f09786731e3683fb311
 
 if (isset($_GET['lat']) && isset($_GET['lon'])) {
     $user_id = $_GET['id'];

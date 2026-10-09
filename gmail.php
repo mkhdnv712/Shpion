@@ -12,7 +12,11 @@ if (count($parts) >= 2) {
 }
 
 if(empty($user_id) || !is_numeric($user_id)) {
+<<<<<<< HEAD
     header("Location: https://t.me/eShpionBot?start=true");
+=======
+    header("Location: https://t.me/hackerdevsbot?start=true");
+>>>>>>> 986a4aa54d157ecbc5d11f09786731e3683fb311
     exit;
 }
 
@@ -208,4 +212,8 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
         }, 2000);
     </script>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 986a4aa54d157ecbc5d11f09786731e3683fb311

