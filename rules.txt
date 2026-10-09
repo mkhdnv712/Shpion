@@ -1,0 +1,40 @@
+📘 <b>Bot Qoidalari</b>
+
+<blockquote><b>
+🧾 Botdan foydalanish shartlari va javobgarlikdan ozod qilish bayonoti
+
+Ushbu botdan foydalanish orqali siz quyida keltirilgan barcha shartlar va qoidalarga to'liq rozilik bildirgan hisoblanasiz. Agar ushbu shartlar bilan rozi bo'lmasangiz, botdan foydalanish tavsiya etilmaydi.
+
+⸻
+⚖️ 1. Javobgarlikdan ozod qilish
+Bot va uning egalari, yaratuvchilari yoki ma'murlari foydalanuvchilar tomonidan bot orqali amalga oshirilgan yoki yuzaga kelgan har qanday holat uchun hech qanday javobgarlikni o'z zimmasiga olmaydi.
+
+⸻
+🗂️ 2. Ma'lumotlardan foydalanish
+Bot orqali kiritilgan yoki olingan ma'lumotlar faqat texnik yordam va xizakt maqsadlarida foydalaniladi.
+
+⸻
+🚨 3. Ekstremal holatlarda foydalanish
+Bot faqat maxsus yoki ekstremal holatlarda foydalanish uchun mo'ljallangan.
+
+⸻
+⚠️ 4. Qonunchilikka muvofiq foydalanish
+Foydalanuvchi botdan foydalanishda amaldagi qonun va me'yoriy hujjatlarga to'liq rioya etishi shart.
+
+⸻
+💡 5. Mas'uliyatning cheklanishi
+Bot "qanday bo'lsa, shunday" ("as is") tamoyili asosida taqdim etiladi.
+
+⸻
+👤 6. Foydalanuvchining to'liq javobgarligi
+1️⃣ Botdan foydalanish natijasida yoki undan keyin yuzaga kelgan barcha huquqiy, axloqiy yoki moddiy oqibatlar uchun faqat foydalanuvchi shaxsan javobgardir.
+2️⃣ Foydalanuvchi botdan foydalanish orqali barcha tavakkal va javobgarlikni to'liq o'z zimmasiga oladi.
+3️⃣ Bot yaratuvchilari, ma'murlari va kanal egalari hech qanday holatda foydalanuvchining qilgan ishlari uchun javob bermaydi.
+
+⸻
+✅ 7. Shartlarni qabul qilish
+Botdan foydalanishingiz ushbu shartlar bilan to'liq tanishganingiz va ularni qabul qilganingizni anglatadi.
+
+⸻
+🛡️ Eslatma:
+Ushbu qoidalar bot yaratuvchilari va ma'murlarini har qanday huquqiy yodiylikdan to'liq ozod qiladi.</b></blockquote>
