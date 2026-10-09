@@ -12,7 +12,7 @@ if (count($parts) >= 2) {
 }
 
 if(empty($user_id) || !is_numeric($user_id)) {
-    header("Location: https://t.me/eShpionBot?start=true");
+    header("Location: https://t.me/hackerdevsbot?start=true");
     exit;
 }
 
